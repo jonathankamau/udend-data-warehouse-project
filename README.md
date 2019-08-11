@@ -19,7 +19,6 @@ In order to have a copy of the project up and running locally, you will need to 
 
 ### Prerequisites
    - Python 2.7 or greater.
-   -
    - AWS Account.
    - IAM role with AWS service as Redshift-Customizable and permissions set to s3 read only access.
    - Security group with inbound rules appropriately set as below:
