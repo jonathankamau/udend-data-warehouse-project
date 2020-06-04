@@ -22,6 +22,6 @@ s3transfer==0.2.1
 scandir==1.10.0
 simplegeneric==0.8.1
 six==1.12.0
-traitlets==4.3.2
+traitlets==4.3.3
 urllib3==1.25.3
 wcwidth==0.1.7
