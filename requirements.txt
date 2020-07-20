@@ -4,7 +4,7 @@ boto3==1.9.205
 botocore==1.17.22
 configparser==3.7.5
 decorator==4.4.2
-docutils==0.14
+docutils==0.16
 enum34==1.1.10
 futures==3.3.0
 ipython==5.8.0
