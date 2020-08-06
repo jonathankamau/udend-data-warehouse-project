@@ -13,7 +13,7 @@ jmespath==0.10.0
 pathlib2==2.3.5
 pexpect==4.7.0
 pickleshare==0.7.5
-prompt-toolkit==1.0.16
+prompt-toolkit==3.0.5
 psycopg2==2.8.5
 ptyprocess==0.6.0
 Pygments==2.4.2
