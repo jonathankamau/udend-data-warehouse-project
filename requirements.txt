@@ -9,7 +9,7 @@ enum34==1.1.10
 futures==3.3.0
 ipython==5.8.0
 ipython-genutils==0.2.0
-jmespath==0.9.4
+jmespath==0.10.0
 pathlib2==2.3.5
 pexpect==4.7.0
 pickleshare==0.7.5
