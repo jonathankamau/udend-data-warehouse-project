@@ -11,7 +11,7 @@ ipython==5.8.0
 ipython-genutils==0.2.0
 jmespath==0.10.0
 pathlib2==2.3.5
-pexpect==4.7.0
+pexpect==4.8.0
 pickleshare==0.7.5
 prompt-toolkit==3.0.5
 psycopg2==2.8.5
