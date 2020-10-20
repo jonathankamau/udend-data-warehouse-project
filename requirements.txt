@@ -1,6 +1,6 @@
 appnope==0.1.0
 backports.shutil-get-terminal-size==1.0.0
-boto3==1.9.205
+boto3==1.16.0
 botocore==1.17.37
 configparser==5.0.0
 decorator==4.4.2
