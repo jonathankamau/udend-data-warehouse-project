@@ -1,4 +1,4 @@
-appnope==0.1.0
+appnope==0.1.2
 backports.shutil-get-terminal-size==1.0.0
 boto3==1.9.205
 botocore==1.17.37
