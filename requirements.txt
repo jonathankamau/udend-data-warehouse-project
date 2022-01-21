@@ -7,7 +7,7 @@ decorator==4.4.2
 docutils==0.16
 enum34==1.1.10
 futures==3.3.0
-ipython==7.17.0
+ipython==7.31.1
 ipython-genutils==0.2.0
 jmespath==0.10.0
 pathlib2==2.3.5
